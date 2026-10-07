@@ -1,0 +1,151 @@
+[
+  {
+    "skill": "python",
+    "category": "Programming",
+    "level": "beginner",
+    "topics": [
+      "Python syntax",
+      "Functions",
+      "Data structures",
+      "Object-oriented programming",
+      "Exception handling",
+      "File handling"
+    ],
+    "practice": [
+      "Solve basic Python problems",
+      "Implement common data structures",
+      "Build a small command-line application"
+    ],
+    "interview_topics": [
+      "Python data structures",
+      "List vs tuple",
+      "Dictionary operations",
+      "OOP concepts",
+      "Exception handling"
+    ]
+  },
+  {
+    "skill": "sql",
+    "category": "Database",
+    "level": "beginner",
+    "topics": [
+      "SELECT",
+      "WHERE",
+      "GROUP BY",
+      "HAVING",
+      "JOIN",
+      "Subqueries",
+      "Window functions"
+    ],
+    "practice": [
+      "Write SQL queries on sample datasets",
+      "Practice INNER JOIN and LEFT JOIN",
+      "Solve aggregation problems"
+    ],
+    "interview_topics": [
+      "SQL joins",
+      "Normalization",
+      "Indexes",
+      "Primary keys",
+      "Transactions"
+    ]
+  },
+  {
+    "skill": "docker",
+    "category": "DevOps",
+    "level": "beginner",
+    "topics": [
+      "Containers",
+      "Images",
+      "Dockerfile",
+      "Volumes",
+      "Networks",
+      "Docker Compose"
+    ],
+    "practice": [
+      "Containerize a Python API",
+      "Create a Dockerfile",
+      "Run a FastAPI application in Docker"
+    ],
+    "interview_topics": [
+      "Container vs virtual machine",
+      "Dockerfile",
+      "Docker image",
+      "Docker networking",
+      "Docker Compose"
+    ]
+  },
+  {
+    "skill": "fastapi",
+    "category": "Backend",
+    "level": "beginner",
+    "topics": [
+      "Routes",
+      "Request validation",
+      "Pydantic",
+      "Dependency injection",
+      "Middleware",
+      "Authentication"
+    ],
+    "practice": [
+      "Build CRUD APIs",
+      "Create a validated POST endpoint",
+      "Connect FastAPI to MongoDB"
+    ],
+    "interview_topics": [
+      "FastAPI vs Flask",
+      "Pydantic",
+      "Async endpoints",
+      "Middleware",
+      "API validation"
+    ]
+  },
+  {
+    "skill": "react",
+    "category": "Frontend",
+    "level": "beginner",
+    "topics": [
+      "Components",
+      "Props",
+      "State",
+      "Hooks",
+      "Forms",
+      "API integration"
+    ],
+    "practice": [
+      "Build reusable components",
+      "Create a form-driven application",
+      "Connect React to a REST API"
+    ],
+    "interview_topics": [
+      "Props vs state",
+      "useState",
+      "useEffect",
+      "Component lifecycle",
+      "API calls"
+    ]
+  },
+  {
+    "skill": "tensorflow",
+    "category": "AI/ML",
+    "level": "beginner",
+    "topics": [
+      "Tensors and operations",
+      "Keras Sequential API",
+      "Model training & loss functions",
+      "CNNs & Image classification",
+      "Model export & inference"
+    ],
+    "practice": [
+      "Train a classification model on MNIST",
+      "Build a simple neural network classifier",
+      "Save and load trained model weights"
+    ],
+    "interview_topics": [
+      "TensorFlow vs PyTorch",
+      "Activation functions",
+      "Overfitting and dropout",
+      "Gradient descent optimizers"
+    ]
+  }
+]
